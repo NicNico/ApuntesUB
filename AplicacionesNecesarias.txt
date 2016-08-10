@@ -1,0 +1,4 @@
+Instalar: 
+
+1)Git (necesito GitBash)
+2)
