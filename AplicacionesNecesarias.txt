@@ -1,4 +1,4 @@
 Instalar: 
 
 1)Git (necesito GitBash)
-2)
+2)NODEJS v4.4.7LTS
