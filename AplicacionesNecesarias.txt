@@ -2,3 +2,6 @@ Instalar:
 
 1)Git (necesito GitBash)
 2)NODEJS v4.4.7LTS
+3)IONIC
+3.1)SUBLIMETEXT
+4)SDK Android
